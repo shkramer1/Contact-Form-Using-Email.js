@@ -1,4 +1,4 @@
-# Contact-Form-Using-Email.js
+# Contact-Form
 
 
 <p>This is a basic form with name, email, and message fields.  The form is styled with Material UI.  Email.js is the API used.
