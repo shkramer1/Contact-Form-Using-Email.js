@@ -1,0 +1,61 @@
+.input {
+        
+    color: white !important;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.7;
+    background-color: white !important;
+
+}
+
+.label {
+    font-family: 'Kdam Thmor Pro', sans-serif !important;
+    color: #EC4EE2 !important;
+
+font-weight: 'bold';
+} 
+
+.contactText {
+    color: #EC4EE2;
+    font-family: 'Kdam Thmor Pro', sans-serif !important;
+  
+}
+
+.textarea {
+   
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.7;
+    background-color: white;
+    margin: 5px;
+ 
+    
+
+}
+
+
+
+.contactlayout {
+ 
+    width: auto;
+}
+
+.buttonContact {
+    background-color: black !important;
+color: yellowgreen !important;
+    font-family: 'Kdam Thmor Pro', sans-serif !important;
+   
+   margin-top: 15px !important;
+
+
+}
+
+.contactBg {
+    border: solid 7px;
+    border-color: yellowgreen;
+    background-color: black !important;
+}

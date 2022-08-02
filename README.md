@@ -1,26 +1,70 @@
-# Contact-Form
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p>This is a basic form with name, email, and message fields.  The form is styled with Material UI.  Email.js is the API used.
-When the form is submitted - 1) The message is sent to the site owner, and 2) The sender receives a confirmation email that the email was sent. </p>
+## Available Scripts
 
-<h2>Integration with Email.js</h2>
+In the project directory, you can run:
 
-<h3>Email.js API/Docs</h3>
-<p>The Email.js API allows users to connect their email account, send emails, and create templates for personalized usability.
-Email.js works with React, Vue, and Angular.</p>
-<p><a href="https://www.emailjs.com/docs/">Email.js API Docs</a></p>
-<img alt='email.js template' src='https://miro.medium.com/max/1400/1*yuN8cwlQOyt8_-Y774m9Nw.png' height='400px' />
+### `npm start`
 
-<h3>Installation</h3>
-<p><a href="https://www.emailjs.com/docs/sdk/installation/">Installing Email.js</a></p>
-<p>To install:  $ npm install @emailjs/browser --save</p>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<h2>Material UI</h2>
-<p>Material UI is a React Component Library. This is used for the styling of the components on this contact form</p>
-<p> <a href='https://mui.com/material-ui/getting-started/installation/'>Material UI Docs/Installation</a> </p>
-<p>1) Mobile View using Material UI</p>
-<img src='https://user-images.githubusercontent.com/87050550/182235584-1ecd035e-ccb0-489c-b717-473f85054660.PNG' alt='Mobile Screenshot' height='500px' />
-<p>2) Desktop View using Material UI</p>
-<img src='https://user-images.githubusercontent.com/87050550/182232553-aeca5aea-7300-4349-bba2-df9f8a6a02eb.PNG' alt='desktop screenshot' height='400px' />
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -1,0 +1,27 @@
+
+
+
+.textFooter {
+
+    color: rgb(139,75,157) !important;
+}
+
+
+
+.footer {
+   
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+.copyrightIcon {
+    color: yellowgreen !important;
+margin: 3px; 
+}
+
+.footerLink {
+    color: rgb(139,75,157) !important;
+    font-weight: bold;
+
+}

@@ -1,0 +1,34 @@
+.appBackground {
+background-color: black !important; 
+}
+
+.appHeader {
+padding: 30px;
+background-color: yellowgreen;
+font-family: 'Kdam Thmor Pro', sans-serif !important;
+    
+}
+
+
+
+.contactCard {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+.buttonDocs {
+    margin-bottom: 40px !important; 
+    padding: 20px !important; 
+    background-color: black !important;
+    color: yellowgreen !important; 
+    font-family: 'Kdam Thmor Pro', sans-serif !important;
+    border: solid 5px yellowgreen !important; 
+}
+
+.buttonCard {
+    background-color: black !important;
+
+}
